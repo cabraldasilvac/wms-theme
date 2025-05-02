@@ -1,0 +1,43 @@
+{
+  "bugs": {
+    "url": "https://github.com/wanderleycabral/wms-theme/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WMS Theme",
+        "path": "./themes/wms theme-color-theme.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  },
+  "description": "WMS theme. A dark theme for Visual Studio Code.",
+  "displayName": "WMS Theme",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "homepage": "https://github.com/wanderleycabral/wms-theme",
+  "icon": "images/wms-icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "wms",
+    "color-theme",
+    "visual studio code"
+  ],
+  "license": "MIT",
+  "name": "wms-theme",
+  "publisher": "wanderleycabral",
+  "release": {
+    "date": "2025-02-05T04:05:00Z",
+    "version": "0.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanderleycabral/wms-theme.git"
+  },
+  "version": "0.0.2"
+}
