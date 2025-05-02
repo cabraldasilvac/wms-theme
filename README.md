@@ -1,7 +1,7 @@
 # WMS Theme: An Elegant Dark Theme for Visual Studio Code
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cabraldasilvac/wms-theme/main/wms-icon.png" alt="WMS Theme icon" width="100" />
+  <img src="https://raw.githubusercontent.com/cabraldasilvac/wms-theme/main/images/wms-icon.png" alt="WMS Theme icon" width="100" />
 </p>
 
 Immerse yourself in a captivating development environment with **WMS Theme**, a carefully crafted dark theme designed to provide visual comfort and enhance your productivity in Visual Studio Code.
